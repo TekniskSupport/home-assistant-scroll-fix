@@ -1,9 +1,0 @@
-{
-  "domain": "scrollfix",
-  "name": "Fixes scroll issue",
-  "documentation": "",
-  "dependencies": ["frontend"],
-  "codeowners": [],
-  "requirements": [],
-  "config_flow": true
-}

@@ -1,0 +1,15 @@
+name: scrollfix
+description: Fixes scrolling in some screen resolutions
+type: lovelace
+keywords:
+  - scroll
+  - fix
+  - screen
+  - resolution
+author:
+  name: Iesus§
+  email: iesus@teknisksupport.se
+  homepage: https://github.com/TekniskSupport/
+license: MIT
+files:
+  - scroll-fix.js

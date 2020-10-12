@@ -2,5 +2,7 @@
   "name": "Scroll fix",
   "country": "SE",
   "domains": ["frontend"],
-  "homeassistant": "0.0.1"
+  "homeassistant": "0.116.0",
+  "content_in_root": true,
+  "filename": "scroll-fix.js"
 }
